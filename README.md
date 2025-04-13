@@ -1,4 +1,4 @@
-#### *Ejercicio realizado por **Alla Harutyunyan** para el curso FullStack de DevCamp. <br>15 de abril de 2024*
+#### *Ejercicio realizado por **Alla Haruty** para el curso FullStack de DevCamp. <br>15 de abril de 2024*
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="100">
